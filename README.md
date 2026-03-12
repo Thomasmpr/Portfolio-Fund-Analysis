@@ -120,3 +120,40 @@ In this case:
 
 - The optimized portfolio represents a **high-risk, high-return strategy**.
 - The SEEGX mutual fund represents a **more balanced and efficient investment solution** for most long-term investors.
+
+---
+
+## Repository Structure
+
+This repository contains several documents related to the portfolio analysis:
+
+### Portfolio_Management_Project_Report.docx
+
+This document contains the **complete written report of the project**.  
+It explains the research question, the methodology used to construct the portfolio, the optimization process, and the comparison between the optimized portfolio and the SEEGX mutual fund.
+
+The report includes detailed explanations of the financial concepts used in the project, such as portfolio optimization, efficient frontier construction, and performance evaluation metrics.
+
+---
+
+### Fact Sheet.pdf
+
+This document summarizes the **key results of the project in a concise format**.
+
+It presents the main characteristics of the optimized portfolio, including asset allocation, expected return, volatility, and performance indicators. The fact sheet provides a quick overview of the portfolio strategy and its comparison with the benchmark indexes and the SEEGX fund.
+
+---
+
+### Portfolio Analysis Excel File.xlsx
+
+This Excel file contains the **data analysis and calculations used throughout the project**.
+
+It includes:
+
+- Historical price data used for the analysis  
+- Return calculations  
+- Risk and performance metrics  
+- Portfolio allocation calculations  
+- Supporting data used for the portfolio optimization
+
+This file represents the **quantitative backbone of the project**, where the financial metrics and portfolio statistics were computed.
